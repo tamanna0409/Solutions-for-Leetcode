@@ -1,4 +1,4 @@
-public class Solution {
+public class solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
       ListNode a = headA;
       ListNode b = headB;
