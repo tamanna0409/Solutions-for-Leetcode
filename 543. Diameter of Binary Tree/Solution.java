@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public static class Pair{
         int height;
         int diameter;

@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public ListNode reverseList(ListNode head) {
         return recursive(head);
     }

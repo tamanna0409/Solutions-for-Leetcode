@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public boolean check(int[] nums) {
      int c = 0, n = nums.length;
      for (int i =1;i<n;i++){

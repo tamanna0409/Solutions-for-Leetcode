@@ -1,4 +1,4 @@
-class Solution {
+public class Solution{
     private static final int CHAR_COUNT = 26;
     private static final int INF = Integer.MAX_VALUE / 2;
 
